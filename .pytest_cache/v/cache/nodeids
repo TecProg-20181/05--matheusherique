@@ -1,0 +1,6 @@
+[
+  "tests/tests.py::Test::()::test_subprocess_check_output", 
+  "tests/tests.py::Test::()::test_bytes_to_readable", 
+  "tests/tests.py::Test::()::test_print_tree", 
+  "tests/tests.py::Test::()::test_show_space_list"
+]

@@ -1,0 +1,4 @@
+{
+  "tests/tests.py::Test": true, 
+  "tests/tests.py::Test::()::test_show_space_list": true
+}

@@ -33,3 +33,18 @@ optional arguments:
                         Specifies the folder maximum depth to be analyzed
   -t, --tree-view       Display the result in a tree mode
 ```
+
+Testes
+======
+
+Para rodar os testes, deve ser instalado o pytest pelo comando:
+
+```
+$ pip install -U pytest
+```
+
+Depois de instalado, rode a seguinte linha no terminal na pasta raiz do projeto:
+
+```
+$ pytest tests/tests.py
+```
